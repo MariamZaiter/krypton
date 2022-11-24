@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="438.5" height="424.8" viewBox="0 0 438.5 424.8">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#13ecbe"/>
+      <stop offset="0.1" stop-color="#25dae2"/>
+      <stop offset="0.522" stop-color="#14ebc0"/>
+      <stop offset="1" stop-color="#15eac1"/>
+      <stop offset="1" stop-color="#2ed1f5"/>
+    </linearGradient>
+  </defs>
+  <g id="krypton" transform="translate(-35.9 -37.6)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="108" cy="108" r="108" transform="translate(154 142)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="40.3" cy="40.3" r="40.3" transform="translate(364.5 63.7)" fill="#13ecbe"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="24.9" cy="24.9" r="24.9" transform="translate(35.9 264.6)" fill="#13ecbe"/>
+    <path id="Path_1" data-name="Path 1" d="M204.4,0C317.287,0,408.8,91.513,408.8,204.4S317.287,408.8,204.4,408.8c-95.39,0-175.517-65.343-198.108-153.878A204.453,204.453,0,0,1,0,204.4C0,91.513,91.513,0,204.4,0Z" transform="translate(57.6 45.6)" fill="none" stroke="#13ecbe" stroke-width="16"/>
+  </g>
+</svg>
